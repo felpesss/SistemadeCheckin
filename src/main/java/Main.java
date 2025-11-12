@@ -20,7 +20,7 @@ public class Main {
             System.out.println("4 - Mostrar resumo (pendentes/concluidas)");
             System.out.println("5 - Apagar tarefa");
             System.out.println("0 - Sair");
-            System.out.print("Escolha uma opcao: ");
+            System.out.print("Escolha uma opcao do menu: ");
 
             while (!sc.hasNextInt()) {
                 System.out.print("Digite um numero válido: ");
