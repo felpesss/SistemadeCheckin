@@ -24,4 +24,8 @@ O sistema simula um controle simples de check-in de tarefas, com cadastro, lista
 - **Por que**: O repositório é responsável por criar objetos `Task`, pois ele possui as informações necessárias (como o `nextId`) e gerencia o armazenamento das tarefas.  
   Assim, ele cumpre o princípio **Creator**, que define que uma classe deve criar objetos que ela usa ou contém.
 
+## Conclusão
+
+O sistema desenvolvido demonstra a aplicação prática dos princípios GRASP de Controller e Creator, reforçando boas práticas de design orientado a objetos.
+As responsabilidades foram distribuídas de forma clara entre as classes, promovendo organização, reutilização e facilidade de manutenção do código.
 
